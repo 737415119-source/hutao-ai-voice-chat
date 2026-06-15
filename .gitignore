@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+reply.wav
+output.wav
+test_output.wav
+.env
